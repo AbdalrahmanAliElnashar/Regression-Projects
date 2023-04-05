@@ -1,2 +1,2 @@
 # Regression-Projects
-Apply different regression algorithms and measures on different datasets 
+Apply Different Regression Algorithms and Measures on Different Datasets 
